@@ -1,0 +1,1 @@
+var app = {'name 1', 'name 2'}
